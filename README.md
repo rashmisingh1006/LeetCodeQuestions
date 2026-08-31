@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0146-lru-cache](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -65,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0200-number-of-islands) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
