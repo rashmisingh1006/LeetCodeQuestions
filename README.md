@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
