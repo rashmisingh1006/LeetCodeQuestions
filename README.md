@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0015-3sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0146-lru-cache) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
