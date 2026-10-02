@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0252-meeting-rooms](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0252-meeting-rooms) |
 | [0283-move-zeroes](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0611-valid-triangle-number) |
+| [0695-max-area-of-island](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/1470-shuffle-the-array) |
 ## Hash Table
@@ -79,20 +80,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 ## Linked List
 |  |
 | ------- |
