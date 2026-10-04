@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0133-clone-graph) |
@@ -151,12 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0133-clone-graph) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
