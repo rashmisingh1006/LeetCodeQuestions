@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0611-valid-triangle-number) |
 | [0695-max-area-of-island](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0704-binary-search) |
+| [0994-rotting-oranges](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0994-rotting-oranges) |
 | [1470-shuffle-the-array](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
