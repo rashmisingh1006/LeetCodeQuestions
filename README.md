@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0252-meeting-rooms) |
 | [0283-move-zeroes](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0283-move-zeroes) |
+| [0542-01-matrix](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0611-valid-triangle-number) |
 | [0695-max-area-of-island](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0704-binary-search) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0994-rotting-oranges) |
 ## Linked List
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0542-01-matrix) |
 ## Queue
 |  |
 | ------- |
