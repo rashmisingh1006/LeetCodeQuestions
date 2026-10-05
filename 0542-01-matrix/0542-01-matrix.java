@@ -1,10 +1,7 @@
 class Solution {
     public int[][] updateMatrix(int[][] mat) {
 
-  if (mat == null || mat.length == 0)
-  {
-    return null;
-  }
+
 
     int rows = mat.length;
     int cols = mat[0].length;
