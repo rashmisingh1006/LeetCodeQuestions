@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0252-meeting-rooms) |
 | [0611-valid-triangle-number](https://github.com/rashmisingh1006/LeetCodeQuestions/tree/master/0611-valid-triangle-number) |
 ## Sliding Window
